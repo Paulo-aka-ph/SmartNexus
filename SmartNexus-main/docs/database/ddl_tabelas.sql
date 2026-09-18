@@ -1,5 +1,5 @@
 -- ============================================================
--- DDL - Sistema de Gestao de Servicos de Marketing
+-- DDL - SmartNexus
 -- Dialeto: PostgreSQL 13+
 -- Gerado a partir do DER e do dicionario de dados do projeto
 -- ============================================================
